@@ -2,7 +2,7 @@
 schema_version: 1
 
 context:
-  version: "0.7.0"
+  version: "0.7.1"
 
 package:
   name: google-cloud-modelarmor
@@ -10,7 +10,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/g/google-cloud-modelarmor/google_cloud_modelarmor-${{ version }}.tar.gz
-  sha256: 2ac62135620cdfc610ad9d9b3f92553de0d27343b693f021fd2012f1898d4ac6
+  sha256: 1cc9eabb94c274d99dc4069d505e1ec4f602bea0aba1fb221233e52171897509
 
 build:
   noarch: python
